@@ -1,6 +1,7 @@
 # Actualizar asignatura
 
 [![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23249239.svg)](https://doi.org/10.5281/zenodo.23249239)
 
 Diseño original: **José María Calavia Balduz** · Licencia CC BY-NC-SA 4.0
 
@@ -77,6 +78,6 @@ Contacto: josemcalavia@me.com
 
 ## Cómo citar
 
-Calavia Balduz, J. M. (2026). *Actualizar asignatura: skill para Claude* (Versión 1.0.0) [Software]. GitHub. https://github.com/josemcalavia/actualizar-asignatura
+Calavia Balduz, J. M. (2026). *Actualizar asignatura: skill para Claude* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23249239
 
-El DOI de Zenodo se añadirá aquí al publicar la versión 1.0.0. También puedes usar el botón «Cite this repository» de GitHub, que lee `CITATION.cff`.
+Este DOI (10.5281/zenodo.23249239) agrupa todas las versiones y siempre apunta a la más reciente; cada versión tiene además su propio DOI en Zenodo. También puedes usar el botón «Cite this repository» de GitHub, que lee `CITATION.cff`.
